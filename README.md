@@ -18,7 +18,8 @@ I build intelligent systems and end-to-end web applications — from training an
 I work at the intersection of artificial intelligence and full-stack engineering. My focus areas include:
 
 - Designing and building AI/ML-powered applications, including document analysis and extraction systems, NLP pipelines, and predictive models
-- Developing full-stack web applications using the MERN stack
+- Building agentic AI systems and Retrieval-Augmented Generation (RAG) pipelines using LangChain and LangGraph
+- Developing full-stack web applications using React, Next.js, and the MERN stack
 - Building data science and forecasting solutions, including time-series and regression models
 - Applying AI to domain-specific problems in legal technology and forensic analysis
 
@@ -29,7 +30,9 @@ I work at the intersection of artificial intelligence and full-stack engineering
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **AI / Machine Learning**
 
@@ -37,6 +40,13 @@ I work at the intersection of artificial intelligence and full-stack engineering
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=flat-square)
+
+**Generative AI & Agentic Systems**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Agentic RAG](https://img.shields.io/badge/Agentic%20RAG-6A0DAD?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Data Science & Analysis**
 
@@ -48,6 +58,7 @@ I work at the intersection of artificial intelligence and full-stack engineering
 **Web Development**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
