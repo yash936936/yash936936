@@ -112,17 +112,6 @@ Full-stack e-commerce platform built with the MERN stack
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yash936936&show_icons=true&theme=default&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash936936&layout=compact&hide_title=true" width="48%" />
-
-</div>
-
-<br>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmalik-/)
