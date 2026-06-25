@@ -72,55 +72,6 @@ I work at the intersection of artificial intelligence and full-stack engineering
 
 <br>
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**[AI-Powered Document Analysis And Extraction](https://github.com/yash936936/AI-Powered_Document_Analysis_And_Extraction)**
-Extracts and analyzes information from documents using AI
-`Python`
-
-</td>
-<td width="50%">
-
-**[Forensic Document Analyzer](https://github.com/yash936936/forensic_document_analyzer)**
-Tool for analyzing documents for forensic insights
-`JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[LegalAI](https://github.com/yash936936/LegalAI)**
-AI application built for the legal domain
-`Python`
-
-</td>
-<td width="50%">
-
-**[Stock Price Prediction Using Time-Series Regression](https://github.com/yash936936/Stock-Price-Prediction-Using-Time-Series-Regression)**
-Predicts stock prices using time-series regression models
-`Jupyter Notebook`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[MERN E-Commerce](https://github.com/yash936936/MERN_ECOMMERCEE)**
-Full-stack e-commerce platform built with the MERN stack
-`JavaScript`
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
-
 <br>
 
 <div align="center">
