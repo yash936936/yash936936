@@ -141,8 +141,8 @@ Offline, vision-first, self-healing QA test automation — AURA reads the screen
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yash936936&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash936936&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-teal-seven-65.vercel.app/api?username=yash936936&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-teal-seven-65.vercel.app/api/top-langs/?username=yash936936&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash936936&year=2026&theme=react-dark&hide_border=true&custom_title=2026%20Contributions" width="100%" />
 
@@ -159,9 +159,6 @@ Offline, vision-first, self-healing QA test automation — AURA reads the screen
   <img src="https://raw.githubusercontent.com/yash936936/yash936936/output/github-contribution-grid-snake-dark.svg" alt="snake animation of contribution graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yash936936&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
 
 <br>
 
