@@ -115,5 +115,12 @@ Offline, vision-first QA automation that reads the screen via OCR and reasons li
 </div>
 <br/>
 <div align="center">
+<img src="https://raw.githubusercontent.com/yash936936/yash936936/output/snake-dark.svg" width="100%" alt="contribution snake — white commit blocks, red snake"/>
+</div>
+<br/>
+
+<div align="center">
 <sub>Building agentic RAG and multi-agent systems, end to end — model to deployed product.</sub>
 </div>
+
+
