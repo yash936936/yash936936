@@ -109,10 +109,6 @@ Offline, vision-first QA automation that reads the screen via OCR and reasons li
 </table>
 <br/>
 <h3>Activity</h3>
- 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash936936&bg_color=08080a&color=ffffff&line=c31d3d&point=ffffff&area=true&area_color=1c2438&title_color=ffffff&hide_border=true&custom_title=" width="100%"/>
-</div>
 <br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/yash936936/yash936936/output/snake-dark.svg" width="100%" alt="contribution snake — white commit blocks, red snake"/>
