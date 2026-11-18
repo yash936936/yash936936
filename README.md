@@ -137,34 +137,58 @@ I enjoy taking an idea beyond a notebook: understanding the system, building the
 
 **Also worth exploring:** [CLI Web Researcher](https://github.com/yash936936/CLI-web-researcher) — a command-line workflow that searches the web, synthesizes sources and produces citation-backed Markdown reports.
 
-## Currently exploring
+## Engineering map
 
-| Focus | Current learning direction |
-|:--|:--|
-| **LLMs & NLP** | Transformer internals, tokenization, embeddings and model behavior |
-| **Agentic AI** | Tool use, planning, orchestration and multi-agent coordination |
-| **RAG systems** | Retrieval quality, chunking, reranking and evaluation |
-| **Model adaptation** | LoRA/QLoRA, fine-tuning workflows and inference |
-| **AI engineering** | API design, testing, deployment and system architecture |
+This map separates projects documented in my repositories from the areas I am actively exploring, the technologies I work with, and the research questions I want to understand better.
 
-## Current areas of exploration
+```mermaid
+flowchart TB
+    ME(("YASH MALIK<br/>AI/ML · LLM ENGINEERING"))
 
-- Agent memory, graph retrieval and reliable context management.
-- RAG quality, retrieval evaluation and reranking.
-- LLM adaptation with parameter-efficient fine-tuning.
-- Agent reliability, tool-use boundaries and lifecycle-aware systems.
-- System design patterns for deployable AI applications.
+    ME --> BUILT["BUILT / DOCUMENTED"]
+    ME --> BUILDING["BUILDING / EXPLORING"]
+    ME --> TOOLKIT["TECHNICAL TOOLKIT"]
+    ME --> INTERESTS["RESEARCH INTERESTS"]
 
-## GitHub activity
+    BUILT --> AGM["AGM<br/>Agent memory · graph retrieval<br/>Research prototype"]
+    BUILT --> SYS["SysDesign AI<br/>HLD/LLD · RAG-grounded design"]
+    BUILT --> DOC["Document Intelligence API<br/>OCR · async processing · LLM analysis"]
+    BUILT --> LORA["LoRA Pipeline<br/>LoRA / QLoRA fine-tuning"]
+    BUILT --> CLI["CLI Web Researcher<br/>Citation-backed research reports"]
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yash936936/yash936936/output/snake-dark.svg" width="92%" alt="GitHub contribution activity" />
-</div>
+    BUILDING --> AGENT["Agent workflows<br/>Tool use · orchestration"]
+    BUILDING --> RETRIEVAL["Retrieval systems<br/>RAG quality · reranking"]
+    BUILDING --> MEMORY["Agent memory<br/>Context · provenance · reliability"]
+    BUILDING --> PRODUCTS["Deployable AI products<br/>Models · APIs · interfaces"]
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yash936936&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash936936&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-</div>
+    TOOLKIT --> LANG["Languages<br/>Python · C++ · JavaScript · TypeScript · SQL"]
+    TOOLKIT --> AI["LLM tooling<br/>LangChain · LangGraph · Hugging Face"]
+    TOOLKIT --> WEB["Application stack<br/>FastAPI · Node.js · React · Next.js"]
+    TOOLKIT --> DATA["Data & retrieval<br/>SQLite · PostgreSQL · MongoDB · Redis · ChromaDB"]
+    TOOLKIT --> ML["ML & data tools<br/>scikit-learn · NumPy · Pandas"]
+
+    INTERESTS --> NLP["LLMs & NLP"]
+    INTERESTS --> RAG["RAG · information retrieval · search"]
+    INTERESTS --> ADAPT["Model adaptation · efficient fine-tuning"]
+    INTERESTS --> MULTI["Multi-agent systems · autonomous workflows"]
+    INTERESTS --> TRUST["Trustworthy AI · evaluation · memory"]
+
+    AGM -.-> MEMORY
+    SYS -.-> RAG
+    DOC -.-> NLP
+    LORA -.-> ADAPT
+    CLI -.-> RETRIEVAL
+
+    classDef identity fill:#102832,stroke:#43d7c5,color:#f2fffd,stroke-width:2px
+    classDef group fill:#1b1a31,stroke:#a79bff,color:#ffffff,stroke-width:1.5px
+    classDef project fill:#10252e,stroke:#43d7c5,color:#eafffc
+    classDef detail fill:#171f2d,stroke:#71869f,color:#edf3fb
+
+    class ME identity
+    class BUILT,BUILDING,TOOLKIT,INTERESTS group
+    class AGM,SYS,DOC,LORA,CLI project
+    class AGENT,RETRIEVAL,MEMORY,PRODUCTS,LANG,AI,WEB,DATA,ML,NLP,RAG,ADAPT,MULTI,TRUST detail
+```
 
 ## 🤝 Connect & Collaborate
 
