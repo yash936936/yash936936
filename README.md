@@ -146,7 +146,7 @@ I enjoy taking an idea beyond a notebook: understanding the system, building the
 | [LoRA Fine-Tuning Pipeline](https://github.com/yash936936/LoRA) | Model adaptation | Config-driven LoRA/QLoRA training, evaluation, adapter merging and inference | Pipeline repository; results depend on the selected model, data and run |
 | [Document Intelligence API](https://github.com/yash936936/AI-Powered_Document_Analysis_And_Extraction) | Applied LLM systems | PDF/DOCX/image extraction, asynchronous processing and structured summary/entity/sentiment output | API project; no production-scale claim |
 | [CLI Web Researcher](https://github.com/yash936936/CLI-web-researcher) | Research automation | Search, source extraction, synthesis and citation-backed Markdown reports | CLI tool with mocked offline tests documented in its README |
-| [AutoDev](https://github.com/yash936936/AutoDev) | Agentic coding | Planner → coder → reviewer → tester pipeline with a separate oversight layer | Early prototype; latest status note records LLM backend verification still pending |
+| [AutoDev](https://github.com/yash936936/AutoDev/blob/main/docs/readme.md) | Agentic coding | Planner → coder → reviewer → tester pipeline with a separate oversight layer | Early prototype; latest status note records LLM backend verification still pending |
 
 ## The Big Picture
 
