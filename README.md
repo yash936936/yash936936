@@ -81,114 +81,153 @@ I enjoy taking an idea beyond a notebook: understanding the system, building the
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## Selected work
+## Featured systems
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/yash936936/AGM">AGM — Adaptive Graph Memory</a></h3>
-      <p><strong>Research prototype · v0.7.0 · local-only</strong></p>
-      <p>A model-agnostic memory layer for AI agents. It combines an event-sourced SQLite core with graph, keyword and vector retrieval, provenance, trust tiers and memory lifecycle controls.</p>
+      <h3><a href="https://github.com/yash936936/Harness">Harness — Multi-Agent Coding System</a></h3>
+      <p><strong>Active research prototype · TypeScript</strong></p>
+      <p>A coding harness built around agent profiles, model and tool access, retrieval, memory, orchestration, policy gates and sandbox providers. Recent work adds shared SQLite-backed reservations and bounded execution-output handling.</p>
+      <p><sub>Current limits: workspace transfer, result synchronization and live Vercel acceptance remain incomplete. The command tool is disabled.</sub></p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Cordis-34495E?style=flat-square" alt="Cordis" />
+        <img src="https://img.shields.io/badge/Vercel_Sandbox-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel Sandbox" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Retrieval-386C8E?style=flat-square" alt="Retrieval" />
       </p>
-      <p><sub>Explores memory correctness, retrieval, provenance and lifecycle management. Not production-ready.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/yash936936/AI-System-Design">SysDesign AI</a></h3>
-      <p><strong>RAG-grounded system design</strong></p>
-      <p>An AI system-design tool that distinguishes HLD and LLD requests, gathers requirements, and generates architecture artifacts such as diagrams, capacity estimates, data models and API schemas.</p>
+      <h3><a href="https://github.com/yash936936/PixelAgent">Pixel — Autonomous Desktop Agent</a></h3>
+      <p><strong>Windows desktop agent · CLI + GUI</strong></p>
+      <p>Turns plain-English tasks into desktop actions by reading the screen, navigating applications, clicking and typing. Uses structured automation where available, with a confirmation gate for irreversible or externally visible actions.</p>
+      <p><sub>Core phases through legal and trust are documented as complete; real-user beta and some real-browser stress validation remain open.</sub></p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-        <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" alt="ChromaDB" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+        <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square" alt="PySide6" />
+        <img src="https://img.shields.io/badge/Agent_Automation-6554C0?style=flat-square" alt="Agent Automation" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/yash936936/AI-Powered_Document_Analysis_And_Extraction">Document Intelligence API</a></h3>
-      <p><strong>Asynchronous document processing</strong></p>
-      <p>A REST API that accepts PDF, DOCX and image files, extracts their content through format-specific processors, and returns structured summaries, named entities and sentiment analysis.</p>
+      <h3><a href="https://github.com/yash936936/Fathom">Fathom — Local-Model Research Assistant</a></h3>
+      <p><strong>Windows v1 scope closed</strong></p>
+      <p>A focused research CLI using a local Qwen3 4B model, hybrid BM25 and dense retrieval, LangGraph-based research flow and source-linked answers with citation checks.</p>
+      <p><sub>Designed for research questions, with live web retrieval for freshness. Citation checking has known limits; later platform support is a separate track.</sub></p>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Qwen-6C5CE7?style=flat-square" alt="Qwen" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/BM25_%2B_Dense_RAG-386C8E?style=flat-square" alt="Hybrid retrieval" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/yash936936/LoRA">LoRA Fine-Tuning Pipeline</a></h3>
-      <p><strong>Config-driven model adaptation</strong></p>
-      <p>A pipeline for fine-tuning Hugging Face causal language models with LoRA and QLoRA, evaluating checkpoints, merging adapters and serving models for inference.</p>
+      <h3><a href="https://github.com/yash936936/AGM">AGM — Adaptive Graph Memory</a></h3>
+      <p><strong>Research prototype · v0.7.0 · local-only</strong></p>
+      <p>A model-agnostic memory layer for AI agents. It combines an event-sourced SQLite core with graph, keyword and vector retrieval, provenance, trust tiers and memory lifecycle controls.</p>
+      <p><sub>Explores memory correctness, retrieval, provenance and lifecycle management. Not production-ready.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-        <img src="https://img.shields.io/badge/PEFT-7B61FF?style=flat-square" alt="PEFT" />
-        <img src="https://img.shields.io/badge/QLoRA-6554C0?style=flat-square" alt="QLoRA" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Graph_Memory-6554C0?style=flat-square" alt="Graph Memory" />
       </p>
     </td>
   </tr>
 </table>
 
-**Also worth exploring:** [CLI Web Researcher](https://github.com/yash936936/CLI-web-researcher) — a command-line workflow that searches the web, synthesizes sources and produces citation-backed Markdown reports.
+## More projects and research tracks
 
-## Engineering map
+| Project | Area | What it explores | Current boundary |
+|:--|:--|:--|:--|
+| [PANPM](https://github.com/yash936936/PANPM) | Neuroimaging research | Parkinson's progression research using MRI metadata/QC, longitudinal assessments and future model development | Phase 1 metadata-QC work; local BOLD QC, visual review and model training are not complete |
+| [LoRA Fine-Tuning Pipeline](https://github.com/yash936936/LoRA) | Model adaptation | Config-driven LoRA/QLoRA training, evaluation, adapter merging and inference | Pipeline repository; results depend on the selected model, data and run |
+| [Document Intelligence API](https://github.com/yash936936/AI-Powered_Document_Analysis_And_Extraction) | Applied LLM systems | PDF/DOCX/image extraction, asynchronous processing and structured summary/entity/sentiment output | API project; no production-scale claim |
+| [CLI Web Researcher](https://github.com/yash936936/CLI-web-researcher) | Research automation | Search, source extraction, synthesis and citation-backed Markdown reports | CLI tool with mocked offline tests documented in its README |
+| [AutoDev](https://github.com/yash936936/AutoDev) | Agentic coding | Planner → coder → reviewer → tester pipeline with a separate oversight layer | Early prototype; latest status note records LLM backend verification still pending |
 
-This map separates projects documented in my repositories from the areas I am actively exploring, the technologies I work with, and the research questions I want to understand better.
+## The Big Picture
+
+A map of the systems I build, the engineering foundations behind them, and the research questions I want to work on. Project maturity is called out separately below so prototypes and completed work are not presented as the same thing.
 
 ```mermaid
-flowchart TB
-    ME(("YASH MALIK<br/>AI/ML · LLM ENGINEERING"))
-
-    ME --> BUILT["BUILT / DOCUMENTED"]
-    ME --> BUILDING["BUILDING / EXPLORING"]
-    ME --> TOOLKIT["TECHNICAL TOOLKIT"]
-    ME --> INTERESTS["RESEARCH INTERESTS"]
-
-    BUILT --> AGM["AGM<br/>Agent memory · graph retrieval<br/>Research prototype"]
-    BUILT --> SYS["SysDesign AI<br/>HLD/LLD · RAG-grounded design"]
-    BUILT --> DOC["Document Intelligence API<br/>OCR · async processing · LLM analysis"]
-    BUILT --> LORA["LoRA Pipeline<br/>LoRA / QLoRA fine-tuning"]
-    BUILT --> CLI["CLI Web Researcher<br/>Citation-backed research reports"]
-
-    BUILDING --> AGENT["Agent workflows<br/>Tool use · orchestration"]
-    BUILDING --> RETRIEVAL["Retrieval systems<br/>RAG quality · reranking"]
-    BUILDING --> MEMORY["Agent memory<br/>Context · provenance · reliability"]
-    BUILDING --> PRODUCTS["Deployable AI products<br/>Models · APIs · interfaces"]
-
-    TOOLKIT --> LANG["Languages<br/>Python · C++ · JavaScript · TypeScript · SQL"]
-    TOOLKIT --> AI["LLM tooling<br/>LangChain · LangGraph · Hugging Face"]
-    TOOLKIT --> WEB["Application stack<br/>FastAPI · Node.js · React · Next.js"]
-    TOOLKIT --> DATA["Data & retrieval<br/>SQLite · PostgreSQL · MongoDB · Redis · ChromaDB"]
-    TOOLKIT --> ML["ML & data tools<br/>scikit-learn · NumPy · Pandas"]
-
-    INTERESTS --> NLP["LLMs & NLP"]
-    INTERESTS --> RAG["RAG · information retrieval · search"]
-    INTERESTS --> ADAPT["Model adaptation · efficient fine-tuning"]
-    INTERESTS --> MULTI["Multi-agent systems · autonomous workflows"]
-    INTERESTS --> TRUST["Trustworthy AI · evaluation · memory"]
-
-    AGM -.-> MEMORY
-    SYS -.-> RAG
-    DOC -.-> NLP
-    LORA -.-> ADAPT
-    CLI -.-> RETRIEVAL
-
-    classDef identity fill:#102832,stroke:#43d7c5,color:#f2fffd,stroke-width:2px
-    classDef group fill:#1b1a31,stroke:#a79bff,color:#ffffff,stroke-width:1.5px
-    classDef project fill:#10252e,stroke:#43d7c5,color:#eafffc
-    classDef detail fill:#171f2d,stroke:#71869f,color:#edf3fb
-
-    class ME identity
-    class BUILT,BUILDING,TOOLKIT,INTERESTS group
-    class AGM,SYS,DOC,LORA,CLI project
-    class AGENT,RETRIEVAL,MEMORY,PRODUCTS,LANG,AI,WEB,DATA,ML,NLP,RAG,ADAPT,MULTI,TRUST detail
+mindmap
+  root((Yash Malik))
+    AI systems and agents
+      Harness
+        TypeScript coding harness
+        Profiles and orchestration
+        Policy gates and sandbox adapters
+      Pixel
+        Windows desktop agent
+        Screen perception and control
+        Memory and confirmation gates
+      AutoDev
+        Planner coder reviewer tester
+        Early multi-agent prototype
+      AGM
+        Agent memory
+        Graph and vector retrieval
+        Provenance and lifecycle
+    Research and retrieval
+      Fathom
+        Local Qwen model
+        Hybrid BM25 and dense retrieval
+        Citation-aware research
+      CLI Web Researcher
+        Web source collection
+        Research synthesis
+        Markdown reports
+    Applied ML and data
+      PANPM
+        Parkinsons neuroimaging research
+        MRI metadata quality control
+        Longitudinal data direction
+      LoRA pipeline
+        Parameter-efficient fine-tuning
+        QLoRA and evaluation
+      Document Intelligence
+        OCR and document extraction
+        Async processing
+        Structured LLM output
+    Engineering foundations
+      Languages
+        Python
+        TypeScript and JavaScript
+        C++ and SQL
+      AI stack
+        LangChain and LangGraph
+        Hugging Face
+        Gemini and Claude
+      Application stack
+        FastAPI and Node.js
+        React and Next.js
+        Celery and Redis
+      Data and infrastructure
+        SQLite and PostgreSQL
+        MongoDB and ChromaDB
+        Docker and Azure
+    Research interests
+      LLMs and NLP
+      RAG and information retrieval
+      Agent planning and evaluation
+      Memory and trustworthy AI
+      Efficient model adaptation
+      Applied AI for healthcare
 ```
+
+## Project status and maturity
+
+| Track | Status from repository documentation | What that means |
+|:--|:--|:--|
+| **Harness** | Active research prototype; state updated 16 Nov 2026 | Core harness and several reliability changes are implemented. Workspace transfer, result sync and live Vercel acceptance remain open. |
+| **Pixel** | Phases 1–17 marked complete, 16 Aug 2026 | CLI/GUI and Windows installer work are documented. Real-user beta has not started; some real-browser validation remains open. |
+| **Fathom** | v1 scope closed in its status log | Windows research assistant with local inference and live retrieval. macOS/Linux and later retrieval work are separate follow-up tracks. |
+| **PANPM** | Phase 1; latest status 15 Nov 2026 | Acquisition-metadata QC is implemented and CI-validated. Local BOLD QC, montage review and model training remain incomplete. |
+| **AGM** | Research prototype v0.7.0 | Local-only memory layer. Real-history evaluation, independent security review and third-party host integration remain open. |
+| **AutoDev** | Early prototype; latest status note 20 Aug 2026 | Four-agent skeleton and oversight flow are documented. Gemini backend verification remains pending in that status record. |
 
 ## 🤝 Connect & Collaborate
 
