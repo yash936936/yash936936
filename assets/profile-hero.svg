@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Yash Malik — AI/ML Developer</title>
+  <desc id="desc">A dark terminal-inspired banner with turquoise and lavender accents, describing work in AI systems, LLM engineering, and agentic workflows.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08121d"/>
+      <stop offset="0.55" stop-color="#10142a"/>
+      <stop offset="1" stop-color="#17132c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#46dccb"/>
+      <stop offset="1" stop-color="#a9a0ff"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop offset="0" stop-color="#25cabb" stop-opacity=".23"/>
+      <stop offset="1" stop-color="#25cabb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop offset="0" stop-color="#9382ff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#9382ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#9ddedc" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <ellipse cx="180" cy="40" rx="360" ry="220" fill="url(#glowA)"/>
+  <ellipse cx="1060" cy="320" rx="330" ry="260" fill="url(#glowB)"/>
+  <path d="M0 294C210 244 346 354 560 298S920 210 1200 258" fill="none" stroke="url(#accent)" stroke-opacity=".2" stroke-width="1.4"/>
+
+  <g transform="translate(66 58)">
+    <rect x="0" y="0" width="224" height="31" rx="15.5" fill="#122a34" stroke="#3ed7c4" stroke-opacity=".45"/>
+    <circle cx="17" cy="15.5" r="4" fill="#46dccb"/>
+    <text x="31" y="20" fill="#b8f0e9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.5">AI SYSTEMS / ENGINEERING</text>
+  </g>
+
+  <text x="64" y="166" fill="#f4f7fb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="750" letter-spacing="-2">YASH MALIK</text>
+  <rect x="67" y="190" width="68" height="4" rx="2" fill="url(#accent)"/>
+  <text x="66" y="229" fill="#a9f0e6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">AI/ML Developer  ·  LLM Engineering</text>
+  <text x="66" y="263" fill="#b9c7d8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Agentic workflows  /  Retrieval systems  /  Full-stack AI</text>
+  <text x="66" y="315" fill="#72869d" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">DESIGN  →  BUILD  →  EVALUATE  →  SHIP</text>
+
+  <g transform="translate(748 62)">
+    <rect x="0" y="0" width="385" height="230" rx="16" fill="#0a101b" fill-opacity=".88" stroke="#7595a8" stroke-opacity=".38"/>
+    <path d="M0 46H385" stroke="#7595a8" stroke-opacity=".28"/>
+    <circle cx="22" cy="23" r="5" fill="#ff7b87"/>
+    <circle cx="42" cy="23" r="5" fill="#f5c56b"/>
+    <circle cx="62" cy="23" r="5" fill="#4bd8b9"/>
+    <text x="87" y="27" fill="#8095aa" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">systems-lab / session</text>
+
+    <text x="26" y="83" fill="#48dbc8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">$ whoami</text>
+    <text x="26" y="108" fill="#edf4fa" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="600">yash_malik</text>
+    <text x="26" y="143" fill="#48dbc8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">$ focus --current</text>
+    <text x="26" y="168" fill="#b8c6d6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">[01] agentic systems</text>
+    <text x="26" y="190" fill="#b8c6d6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">[02] LLM applications</text>
+    <text x="26" y="212" fill="#b8c6d6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">[03] retrieval + memory</text>
+    <rect x="264" y="198" width="8" height="16" rx="2" fill="#a99cff" filter="url(#softGlow)"/>
+  </g>
+
+  <g fill="none" stroke="url(#accent)" stroke-width="1.4" stroke-opacity=".65">
+    <path d="M688 82L716 102L688 122L716 142"/>
+    <path d="M688 224L716 244L688 264"/>
+    <path d="M1133 104L1160 84L1180 104"/>
+  </g>
+  <g fill="#56dcca" filter="url(#softGlow)">
+    <circle cx="688" cy="82" r="3.5"/>
+    <circle cx="716" cy="102" r="3"/>
+    <circle cx="688" cy="122" r="3.5"/>
+    <circle cx="716" cy="142" r="3"/>
+    <circle cx="688" cy="224" r="3.5"/>
+    <circle cx="716" cy="244" r="3"/>
+  </g>
+  <g fill="#a99cff">
+    <circle cx="1133" cy="104" r="3.5"/>
+    <circle cx="1160" cy="84" r="3"/>
+    <circle cx="1180" cy="104" r="3.5"/>
+  </g>
+</svg>
