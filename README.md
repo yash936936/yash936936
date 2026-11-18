@@ -146,13 +146,33 @@ I enjoy taking an idea beyond a notebook: understanding the system, building the
 | [LoRA Fine-Tuning Pipeline](https://github.com/yash936936/LoRA) | Model adaptation | Config-driven LoRA/QLoRA training, evaluation, adapter merging and inference | Pipeline repository; results depend on the selected model, data and run |
 | [Document Intelligence API](https://github.com/yash936936/AI-Powered_Document_Analysis_And_Extraction) | Applied LLM systems | PDF/DOCX/image extraction, asynchronous processing and structured summary/entity/sentiment output | API project; no production-scale claim |
 | [CLI Web Researcher](https://github.com/yash936936/CLI-web-researcher) | Research automation | Search, source extraction, synthesis and citation-backed Markdown reports | CLI tool with mocked offline tests documented in its README |
-| [AutoDev](https://github.com/yash936936/AutoDev/blob/main/docs/readme.md) | Agentic coding | Planner → coder → reviewer → tester pipeline with a separate oversight layer | Early prototype; latest status note records LLM backend verification still pending |
+| [AutoDev](https://github.com/yash936936/AutoDev/blob/main/docs/readme.md) | Agentic coding | Planner → coder → reviewer → tester pipeline with a separate oversight layer | Early prototype; LLM backend verification is not confirmed in the repository documentation |
 
 ## The Big Picture
 
 A map of the systems I build, the engineering foundations behind them, and the research questions I want to work on. Project maturity is called out separately below so prototypes and completed work are not presented as the same thing.
 
 ```mermaid
+---
+config:
+  theme: base
+  mindmap:
+    colorBy: depth
+  themeVariables:
+    background: '#0D1117'
+    darkMode: true
+    git0: '#344256'
+    gitBranchLabel0: '#F8FAFC'
+    cScaleLabel0: '#253247'
+    cScale1: '#DCE5EF'
+    cScaleLabel1: '#263548'
+    cScale2: '#DCE9E2'
+    cScaleLabel2: '#2B4337'
+    cScale3: '#EEE6D6'
+    cScaleLabel3: '#4B4030'
+    cScale4: '#E5E1EF'
+    cScaleLabel4: '#40384F'
+---
 mindmap
   root((Yash Malik))
     AI systems and agents
@@ -222,12 +242,12 @@ mindmap
 
 | Track | Status from repository documentation | What that means |
 |:--|:--|:--|
-| **Harness** | Active research prototype; state updated 16 Nov 2026 | Core harness and several reliability changes are implemented. Workspace transfer, result sync and live Vercel acceptance remain open. |
-| **Pixel** | Phases 1–17 marked complete, 16 Aug 2026 | CLI/GUI and Windows installer work are documented. Real-user beta has not started; some real-browser validation remains open. |
+| **Harness** | Active research prototype | Core harness and several reliability changes are implemented. Workspace transfer, result sync and live Vercel acceptance remain open. |
+| **Pixel** | Core implementation phases documented as complete | CLI/GUI and Windows installer work are documented. Real-user beta has not started; some real-browser validation remains open. |
 | **Fathom** | v1 scope closed in its status log | Windows research assistant with local inference and live retrieval. macOS/Linux and later retrieval work are separate follow-up tracks. |
-| **PANPM** | Phase 1; latest status 15 Nov 2026 | Acquisition-metadata QC is implemented and CI-validated. Local BOLD QC, montage review and model training remain incomplete. |
+| **PANPM** | Phase 1 research scaffold; metadata-QC implementation has CI validation | Acquisition-metadata QC is implemented and CI-validated. Local BOLD QC, montage review and model training remain incomplete. |
 | **AGM** | Research prototype v0.7.0 | Local-only memory layer. Real-history evaluation, independent security review and third-party host integration remain open. |
-| **AutoDev** | Early prototype; latest status note 20 Aug 2026 | Four-agent skeleton and oversight flow are documented. Gemini backend verification remains pending in that status record. |
+| **AutoDev** | Early prototype | Four-agent skeleton and oversight flow are documented. Gemini backend verification is not confirmed in the repository documentation. |
 
 ## 🤝 Connect & Collaborate
 
