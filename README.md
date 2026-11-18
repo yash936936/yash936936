@@ -98,7 +98,7 @@ I enjoy taking an idea beyond a notebook: understanding the system, building the
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/yash936936/PixelAgent">Pixel — Autonomous Desktop Agent</a></h3>
+      <h3><a href="https://github.com/yash936936/PixelAgent/blob/main/docs/README.md">Pixel — Autonomous Desktop Agent</a></h3>
       <p><strong>Windows desktop agent · CLI + GUI</strong></p>
       <p>Turns plain-English tasks into desktop actions by reading the screen, navigating applications, clicking and typing. Uses structured automation where available, with a confirmation gate for irreversible or externally visible actions.</p>
       <p><sub>Core phases through legal and trust are documented as complete; real-user beta and some real-browser stress validation remain open.</sub></p>
@@ -112,7 +112,7 @@ I enjoy taking an idea beyond a notebook: understanding the system, building the
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/yash936936/Fathom">Fathom — Local-Model Research Assistant</a></h3>
+      <h3><a href="https://github.com/yash936936/Fathom/blob/main/docs/readme.md">Fathom — Local-Model Research Assistant</a></h3>
       <p><strong>Windows v1 scope closed</strong></p>
       <p>A focused research CLI using a local Qwen3 4B model, hybrid BM25 and dense retrieval, LangGraph-based research flow and source-linked answers with citation checks.</p>
       <p><sub>Designed for research questions, with live web retrieval for freshness. Citation checking has known limits; later platform support is a separate track.</sub></p>
