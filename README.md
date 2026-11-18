@@ -1,122 +1,169 @@
-<div align="center"> <img src="banner_dark.png" width="100%" alt="Yash Malik — AI Engineer, Agentic Systems & Full-Stack Delivery"/> </div> <p align="center"> <a href="https://www.linkedin.com/in/yashmalik-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/yash936936"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a> <a href="mailto:yashsunilmalik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://personal-portfolio-yashmalik.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-c31d3d?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a> </p> <br/>
-
-### Overview
-
-I work at the point where a trained model turns into a product someone can actually open and use. Four things I keep coming back to:
-
-| | |
-|---|---|
-| **Agentic Systems** | LangChain / LangGraph orchestration, plan-then-execute agents, autonomous desktop control |
-| **Retrieval** | Hybrid dense + sparse retrieval, reranking, semantic caching, vector search |
-| **LLM Engineering** | Prompt design, LoRA / QLoRA fine-tuning, LLM-as-judge evaluation, Claude & Gemini integration |
-| **Full-Stack Delivery** | React / Next.js, FastAPI, Docker — the same person who trains the model ships the product |
-
-<br/>
-
-### Stack
- 
-<table>
-<tr><td width="140"><b>Languages</b></td><td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-</td></tr>
-<tr><td><b>Agentic AI</b></td><td>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agentic%20RAG-6A0DAD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-6A0DAD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-</td></tr>
-<tr><td><b>Retrieval</b></td><td>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/BM25-4B8BBE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hybrid%20Search-4B8BBE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Reciprocal%20Rank%20Fusion-4B8BBE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Semantic%20Caching-4B8BBE?style=flat-square"/>
-</td></tr>
-<tr><td><b>ML / Data</b></td><td>
-<img src="https://img.shields.io/badge/NLP-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/NER-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=flat-square"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</td></tr>
-<tr><td><b>Backend</b></td><td>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-</td></tr>
-<tr><td><b>Frontend</b></td><td>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-</td></tr>
-<tr><td><b>Data & Infra</b></td><td>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-</td></tr>
-</table>
-<br/>
-
-<h3>Featured Work</h3>
- 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/yash936936/PixelAgent">Pixel — Autonomous Desktop Agent</a></h4>
- 
-Turns one plain-English instruction into a completed multi-step desktop task — confirmation gate before irreversible actions, memory for repeated tasks. CLI + native GUI.
- 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Agentic%20Automation-6A0DAD?style=flat-square"/> <img src="https://img.shields.io/badge/Vision%20Control-6A0DAD?style=flat-square"/>
- 
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/yash936936/SignalFlow">SignalFlow — Lead-Gen & Outreach Agent System</a></h4>
- 
-Discovers leads across Reddit, X, Instagram, LinkedIn, and company sites, verifies and merges contact data, and runs deliverability-safe outreach under a fully observable supervisor.
- 
-<img src="https://img.shields.io/badge/Multi--Agent-6A0DAD?style=flat-square"/> <img src="https://img.shields.io/badge/Lead%20Gen-6A0DAD?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
- 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/yash936936/AI-System-Design">SysDesign AI — System Design Generator</a></h4>
- 
-Detects High-Level vs. Low-Level Design intent, gathers requirements via MCQs, and generates RAG-grounded architectures — diagrams, capacity estimates, schemas — exportable as PDF or Markdown.
- 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
- 
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/yash936936/Multi-Agent-System-for-E2E-RPA-Test-Automation">AURA — Autonomous Unified RPA Agent</a></h4>
- 
-Offline, vision-first QA automation that reads the screen via OCR and reasons like a human tester, with a self-healing loop that diagnoses, fixes, and remembers.
- 
-<img src="https://img.shields.io/badge/Multi--Agent-6A0DAD?style=flat-square"/> <img src="https://img.shields.io/badge/OCR-0078D4?style=flat-square"/> <img src="https://img.shields.io/badge/Self--Healing-0078D4?style=flat-square"/>
- 
-</td>
-</tr>
-</table>
-<br/>
-<h3>Activity</h3>
-<br/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/yash936936/yash936936/output/snake-dark.svg" width="100%" alt="contribution snake — white commit blocks, red snake"/>
-</div>
-<br/>
 
-<div align="center">
-<sub>Building agentic RAG and multi-agent systems, end to end — model to deployed product.</sub>
+<img src="./assets/profile-hero.svg" width="100%" alt="Yash Malik — AI/ML Developer, LLM Engineering and Agentic Systems" />
+
+<p>
+  <a href="https://www.linkedin.com/in/yashmalik-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/yash936936"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://personal-portfolio-yashmalik.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:yashsunilmalik@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+**AI/ML Developer · LLM Engineering · Agentic Systems**
+
+*Designing, building and evaluating AI-powered software.*
+
 </div>
 
+---
 
+## About
+
+I’m a technical student focused on **AI/ML and full-stack engineering**. I work across LLM-powered applications, agentic workflows, retrieval systems, model adaptation and the backend services that connect them.
+
+I enjoy taking an idea beyond a notebook: understanding the system, building the components, exposing them through usable interfaces, and testing how they behave.
+
+## Engineering focus
+
+| Area | What I work on |
+|:--|:--|
+| **Agentic systems** | Tool orchestration, multi-agent workflows, task planning and automation |
+| **LLM engineering** | Model integration, prompt design, LoRA/QLoRA workflows and evaluation |
+| **Retrieval & memory** | Hybrid dense/sparse search, vector retrieval, reranking and graph-based memory |
+| **AI product engineering** | FastAPI services, React applications, asynchronous processing and deployment |
+
+## Technology stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**LLMs & agent frameworks**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-263238?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+**Retrieval & machine learning**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25-386C8E?style=flat-square)
+![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-386C8E?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Backend & frontend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Data & infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yash936936/AGM">AGM — Adaptive Graph Memory</a></h3>
+      <p><strong>Research prototype · v0.7.0 · local-only</strong></p>
+      <p>A model-agnostic memory layer for AI agents. It combines an event-sourced SQLite core with graph, keyword and vector retrieval, provenance, trust tiers and memory lifecycle controls.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Retrieval-386C8E?style=flat-square" alt="Retrieval" />
+      </p>
+      <p><sub>Explores memory correctness, retrieval, provenance and lifecycle management. Not production-ready.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yash936936/AI-System-Design">SysDesign AI</a></h3>
+      <p><strong>RAG-grounded system design</strong></p>
+      <p>An AI system-design tool that distinguishes HLD and LLD requests, gathers requirements, and generates architecture artifacts such as diagrams, capacity estimates, data models and API schemas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" alt="ChromaDB" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yash936936/AI-Powered_Document_Analysis_And_Extraction">Document Intelligence API</a></h3>
+      <p><strong>Asynchronous document processing</strong></p>
+      <p>A REST API that accepts PDF, DOCX and image files, extracts their content through format-specific processors, and returns structured summaries, named entities and sentiment analysis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yash936936/LoRA">LoRA Fine-Tuning Pipeline</a></h3>
+      <p><strong>Config-driven model adaptation</strong></p>
+      <p>A pipeline for fine-tuning Hugging Face causal language models with LoRA and QLoRA, evaluating checkpoints, merging adapters and serving models for inference.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+        <img src="https://img.shields.io/badge/PEFT-7B61FF?style=flat-square" alt="PEFT" />
+        <img src="https://img.shields.io/badge/QLoRA-6554C0?style=flat-square" alt="QLoRA" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+**Also worth exploring:** [CLI Web Researcher](https://github.com/yash936936/CLI-web-researcher) — a command-line workflow that searches the web, synthesizes sources and produces citation-backed Markdown reports.
+
+## Architecture snapshot: AGM retrieval
+
+AGM uses the event log as its source of truth. Its graph, keyword and embedding indexes are rebuildable views. The retrieval path combines lexical and vector seeds, bounded graph expansion, validity checks and ranking, with abstention when evidence is insufficient.
+
+\`\`\`mermaid
+flowchart TD
+    Q[Incoming query] --> S[Keyword + vector retrieval]
+    S --> G[Bounded graph expansion]
+    G --> F[Scope and validity filters]
+    F --> R[Ranking]
+    R -->|Sufficient evidence| C[Relevant memory context]
+    R -->|Insufficient evidence| A[Abstain]
+
+    E[(Event log)] --> V[Rebuildable read models]
+    V --> S
+\`\`\`
+
+## Current areas of exploration
+
+- Agent memory, graph retrieval and reliable context management.
+- RAG quality, retrieval evaluation and reranking.
+- LLM adaptation with parameter-efficient fine-tuning.
+- Agent reliability, tool-use boundaries and lifecycle-aware systems.
+- System design patterns for deployable AI applications.
+
+## GitHub activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yash936936/yash936936/output/snake-dark.svg" width="92%" alt="GitHub contribution activity" />
+</div>
+
+<div align="center">
+  <sub>Build deliberately. Evaluate honestly. Ship useful systems.</sub>
+</div>
