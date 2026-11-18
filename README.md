@@ -2,6 +2,10 @@
 
 <img src="./assets/profile-hero.svg" width="100%" alt="Yash Malik — AI/ML Developer, LLM Engineering and Agentic Systems" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=55DCCB&center=true&vCenter=true&width=850&lines=Building+AI-powered+products;Exploring+LLMs%2C+RAG+and+Agentic+Systems;From+model+experiments+to+usable+software" alt="Animated engineering focus" />
+</p>
+
 <p>
   <a href="https://www.linkedin.com/in/yashmalik-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/yash936936"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -133,22 +137,15 @@ I enjoy taking an idea beyond a notebook: understanding the system, building the
 
 **Also worth exploring:** [CLI Web Researcher](https://github.com/yash936936/CLI-web-researcher) — a command-line workflow that searches the web, synthesizes sources and produces citation-backed Markdown reports.
 
-## Architecture snapshot: AGM retrieval
+## Currently exploring
 
-AGM uses the event log as its source of truth. Its graph, keyword and embedding indexes are rebuildable views. The retrieval path combines lexical and vector seeds, bounded graph expansion, validity checks and ranking, with abstention when evidence is insufficient.
-
-```mermaid
-flowchart TD
-    Q[Incoming query] --> S[Keyword + vector retrieval]
-    S --> G[Bounded graph expansion]
-    G --> F[Scope and validity filters]
-    F --> R[Ranking]
-    R -->|Sufficient evidence| C[Relevant memory context]
-    R -->|Insufficient evidence| A[Abstain]
-
-    E[(Event log)] --> V[Rebuildable read models]
-    V --> S
-```
+| Focus | Current learning direction |
+|:--|:--|
+| **LLMs & NLP** | Transformer internals, tokenization, embeddings and model behavior |
+| **Agentic AI** | Tool use, planning, orchestration and multi-agent coordination |
+| **RAG systems** | Retrieval quality, chunking, reranking and evaluation |
+| **Model adaptation** | LoRA/QLoRA, fine-tuning workflows and inference |
+| **AI engineering** | API design, testing, deployment and system architecture |
 
 ## Current areas of exploration
 
@@ -163,6 +160,17 @@ flowchart TD
 <div align="center">
   <img src="https://raw.githubusercontent.com/yash936936/yash936936/output/snake-dark.svg" width="92%" alt="GitHub contribution activity" />
 </div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yash936936&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash936936&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+</div>
+
+## 🤝 Connect & Collaborate
+
+I’m interested in connecting with developers and researchers working on **LLMs, NLP, retrieval systems, agentic AI and practical AI engineering**.
+
+For technical discussions, project collaboration or research conversations, reach out through [LinkedIn](https://www.linkedin.com/in/yashmalik-/) or [email](mailto:yashsunilmalik@gmail.com).
 
 <div align="center">
   <sub>Build deliberately. Evaluate honestly. Ship useful systems.</sub>
