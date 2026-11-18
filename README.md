@@ -137,7 +137,7 @@ I enjoy taking an idea beyond a notebook: understanding the system, building the
 
 AGM uses the event log as its source of truth. Its graph, keyword and embedding indexes are rebuildable views. The retrieval path combines lexical and vector seeds, bounded graph expansion, validity checks and ranking, with abstention when evidence is insufficient.
 
-\`\`\`mermaid
+```mermaid
 flowchart TD
     Q[Incoming query] --> S[Keyword + vector retrieval]
     S --> G[Bounded graph expansion]
@@ -148,7 +148,7 @@ flowchart TD
 
     E[(Event log)] --> V[Rebuildable read models]
     V --> S
-\`\`\`
+```
 
 ## Current areas of exploration
 
